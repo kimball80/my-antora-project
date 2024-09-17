@@ -1,5 +1,4 @@
 name: Component1
-title: My Documentation Component
-version: 1.0
-nav:
-  - modules/ROOT/nav.adoc
+title: Component 1
+version: '1.0'
+start_page: ROOT:pages/R1.adoc

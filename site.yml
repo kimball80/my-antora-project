@@ -3,7 +3,7 @@ site:
   start_page: Component1::ROOT/pages/R1.adoc
 content:
   sources:
-    - url: .
+    - url: ./components/Component1
       branches: [main]
 ui:
   bundle:
