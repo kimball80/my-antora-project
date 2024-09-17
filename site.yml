@@ -1,6 +1,6 @@
 site:
   title: My Documentation Site
-  start_page: component-name::index.adoc
+  start_page: Component1::ROOT/pages/R1.adoc
 content:
   sources:
     - url: .
@@ -9,7 +9,3 @@ ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
-    languages:
-      - name: en
-        label: English
-      direction: ltr
