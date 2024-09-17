@@ -3,7 +3,7 @@ site:
   start_page: Component1::ROOT/pages/R1.adoc
 content:
   sources:
-    - url: https://${GITHUB_TOKEN}@github.com/kimball80/my-antora-project.git
+    - url: https://${githubToken}@github.com/kimball80/my-antora-project.git
       branches: [main]
 ui:
   bundle:
