@@ -11,5 +11,5 @@ ui:
     snapshot: true
     languages:
       - name: en
-      label: English
+        label: English
       direction: ltr
