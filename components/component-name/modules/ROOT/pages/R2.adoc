@@ -1,0 +1,50 @@
+= Forskningsrapport
+Author Name
+:doctype: article
+:toc: right
+:toclevels: 2
+:sectnums:
+:sectnumlevels: 2
+:source-highlighter: highlight.js
+
+== Abstract
+
+En kort sammanfattning av rapporten...
+
+== Introduktion
+
+=== Bakgrund
+
+Beskriv bakgrunden till forskningen...
+
+=== Syfte och Mål
+
+Syftet med denna forskning är...
+
+== Metod
+
+=== Forskningsdesign
+
+Beskriv forskningsdesignen...
+
+=== Datainsamlingsmetoder
+
+Beskriv metoderna för datainsamling...
+
+== Resultat
+
+=== Resultat 1
+
+Presentera resultaten...
+
+=== Resultat 2
+
+Presentera resultaten...
+
+== Diskussion
+
+Diskutera resultaten i relation till tidigare forskning...
+
+== Slutsats
+
+Sammanfatta de viktigaste fynden och föreslå framtida forskning...

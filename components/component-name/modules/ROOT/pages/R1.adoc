@@ -1,0 +1,50 @@
+= Teknisk Rapport
+Author Name
+:doctype: book
+:toc: left
+:toclevels: 3
+:sectnums:
+:sectnumlevels: 3
+:source-highlighter: highlight.js
+
+== Introduktion
+
+Denna rapport beskriver...
+
+== Bakgrund
+
+=== Problemformulering
+
+Beskriv problemet...
+
+=== Syfte
+
+Syftet med denna rapport är...
+
+== Metod
+
+=== Datainsamling
+
+Beskriv hur data samlades in...
+
+=== Analysmetoder
+
+Beskriv de metoder som användes för att analysera data...
+
+== Resultat
+
+=== Resultat 1
+
+Beskriv resultatet...
+
+=== Resultat 2
+
+Beskriv resultatet...
+
+== Diskussion
+
+Diskutera resultaten och deras implikationer...
+
+== Slutsats
+
+Sammanfatta de viktigaste punkterna och föreslå framtida arbete...

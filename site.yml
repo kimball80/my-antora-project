@@ -1,0 +1,11 @@
+site:
+  title: My Documentation Site
+  start_page: component-name::index.adoc
+content:
+  sources:
+    - url: .
+      branches: [main]
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
